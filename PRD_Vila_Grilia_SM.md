@@ -70,11 +70,11 @@
 ## 4. Alamat & Kontak Integrasi
 
 * **Alamat Lengkap:** Dusun Jorong, Jln. Puri Rinjani, Kaki Gunung Rinjani, Nusa Tenggara Barat (NTB).
-* **Nomor Kontak / WhatsApp:** **085967109790** (+62 859-6710-9790)
+* **Nomor Kontak / WhatsApp:** **0859-6710-9790**
 * **Integrasi WhatsApp Langsung:**
   * Tombol **"Cek Jadwal"** pada floating search bar otomatis menyusun pesan WhatsApp berisi:
     * Lokasi: Dusun Jorong, Jln. Puri Rinjani
     * Pilihan Tipe Kamar (Tipe Biasa Rp 250rb / Family Room)
     * Tanggal Check-in
   * Tautan langsung ke nomor: `https://wa.me/6285967109790`
-* **Peta:** Tautan langsung ke Google Maps rute Dusun Jorong, Jln. Puri Rinjani.
+* **Peta Google Maps:** [https://goo.gl/maps/1fJbBcRFNiP5o16M8?g_st=awb](https://goo.gl/maps/1fJbBcRFNiP5o16M8?g_st=awb) (Koordinat: `-8.383447, 116.535676`)
